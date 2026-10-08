@@ -1,6 +1,6 @@
 {
   "dealership": "Harris Oceanside Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-09-26T10:16:32",
+  "generated_at": "2026-10-08T14:37:37",
   "vehicle_count": 201,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -17,13 +17,16 @@
       "price": 69999.0,
       "price_currency": "CAD",
       "odometer_km": 48663,
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Savana Cargo Van 3500",
       "vin": "1GTZ7GF79S1123003",
       "stock": "CF25188",
       "color": "White",
+      "trim": "Van 3500",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/18b65af7bc0e.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2025/gmc/savana-cargo-van/parksville/bc/65407698/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2025/gmc/savana-cargo-van/parksville/bc/65407698/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -33,14 +36,17 @@
       "odometer_km": 8,
       "year": 2025,
       "make": "GMC",
-      "model": "Savana Cargo Van 3500",
-      "condition": "new"
+      "model": "Savana",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Savana Cargo Van 2500",
       "vin": "1GTW7AFPXS1137217",
       "stock": "CF25247",
       "color": "White",
+      "trim": "Van 2500",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/1bbb3d12fec3.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2025/gmc/savana-cargo-van/parksville/bc/70094101/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2025/gmc/savana-cargo-van/parksville/bc/70094101/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,8 +56,10 @@
       "odometer_km": 22,
       "year": 2025,
       "make": "GMC",
-      "model": "Savana Cargo Van 2500",
-      "condition": "new"
+      "model": "Savana",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Sport Touring Studio Series Power Moonroof",
@@ -68,13 +76,16 @@
       "year": 2026,
       "make": "Buick",
       "model": "Encore GX Sport Touring Studio Series Power Moonroof",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Avenir Adaptive Cruise Control",
       "vin": "KL4AMGSL3TB010291",
       "stock": "C010291",
       "color": "Grey",
+      "trim": "Avenir",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/18fe619f9c74.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/70479824/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/70479824/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -84,14 +95,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Avenir Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Sport Touring Power Moonroof",
       "vin": "KL4AMESL5TB221741",
       "stock": "C221741",
       "color": "White",
+      "trim": "Sport Touring Power Moonroof",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/2a29e7d8c2a5.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/70497331/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/70497331/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -101,14 +115,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Sport Touring Power Moonroof",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Sport Touring Power Moonroof",
       "vin": "KL4AMESL8TB233169",
       "stock": "C233169",
       "color": "Red",
+      "trim": "Sport Touring Power Moonroof",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/23c58477db23.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/70497337/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/70497337/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -118,14 +135,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Sport Touring Power Moonroof",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Preferred Heated Seats/Steering Wheels",
       "vin": "KL4AMBSL5TB248176",
       "stock": "C248176",
       "color": "Blue",
+      "trim": "Preferred Heated Seats/Steering Wheels",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/956ea06313a0.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/70661915/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/70661915/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -135,14 +155,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Preferred Heated Seats/Steering Wheels",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Avenir Heated Seats/Steering Wheel.",
       "vin": "KL4AMGSL7TB244319",
       "stock": "C244319",
       "color": "White",
+      "trim": "Avenir Heated Seats/Steering Wheel.",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/a1569ca395cf.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/70759991/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/70759991/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -152,14 +175,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Avenir Heated Seats/Steering Wheel.",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Preferred *INCOMING UNIT*",
       "vin": "KL4AMBSL5TB045126",
       "stock": "C045126",
       "color": "White",
+      "trim": "Preferred *INCOMING UNIT*",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/7c4703a0bb2d.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/71204231/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/71204231/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -169,14 +195,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Preferred *INCOMING UNIT*",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Preferred Heated Seats/Steering Wheel",
       "vin": "KL4AMBSL2TB046072",
       "stock": "C046072",
       "color": "White",
+      "trim": "Preferred Heated Seats/Steering Wheel",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/848af186675a.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/71204232/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/71204232/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -186,14 +215,17 @@
       "odometer_km": 28,
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Preferred Heated Seats/Steering Wheel",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Preferred Adaptive Cruise Control",
       "vin": "KL4AMCSL3TB050332",
       "stock": "C050332",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/3261131fcafc.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/71204235/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/71204235/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -203,14 +235,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Preferred Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Preferred Heated Seats/Steering Wheel",
       "vin": "KL4AMBSL5TB050164",
       "stock": "C050164",
       "color": "White",
+      "trim": "Preferred Heated Seats/Steering Wheel",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/7bb62c8781ac.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/71204236/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/encore-gx/parksville/bc/71204236/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -220,14 +255,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Preferred Heated Seats/Steering Wheel",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Avenir Panoramic Moonroof",
       "vin": "LRBFZSR4XTD066777",
       "stock": "C066777",
       "color": "Black",
+      "trim": "Avenir",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/80b63b2aef24.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70083241/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70083241/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -237,14 +275,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Avenir Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Avenir Panoramic Moonroof",
       "vin": "LRBFZSR47TD066753",
       "stock": "C066753",
       "color": "Grey",
+      "trim": "Avenir",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4cc9627ab2b9.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70083244/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70083244/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -254,14 +295,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Avenir Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touring Panoramic Moonroof",
       "vin": "LRBFZPR42TD062171",
       "stock": "C062171",
       "color": "White",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/08d05907cbac.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70094100/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70094100/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -271,14 +315,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touring Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touring Panoramic Moonroof",
       "vin": "LRBFZPR40TD074979",
       "stock": "C074979",
       "color": "Grey",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/455c89939d1c.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70192558/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70192558/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -288,14 +335,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touring Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Avenir Panoramic Moonroof",
       "vin": "LRBFZSR40TD074807",
       "stock": "C074807",
       "color": "White",
+      "trim": "Avenir",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/409cd2c876bd.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70212966/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70212966/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -305,14 +355,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Avenir Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Avenir Panoramic Moonroof",
       "vin": "LRBFZSR44TD075183",
       "stock": "C075183",
       "color": "Black",
+      "trim": "Avenir",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/170e6031d985.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70212972/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70212972/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -322,14 +375,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Avenir Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touring Panoramic Moonroof",
       "vin": "LRBFZPR44TD065539",
       "stock": "C065539",
       "color": "Grey",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/70319e25e77e.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70537254/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70537254/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -339,14 +395,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touring Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Avenir Panoramic Moonroof",
       "vin": "LRBFZSR4XTD100460",
       "stock": "C100460",
       "color": "White",
+      "trim": "Avenir",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/e6e71037df4a.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70754022/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70754022/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -356,14 +415,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Avenir Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Avenir Panoramic Moonroof",
       "vin": "LRBFZSR48TD099857",
       "stock": "C099857",
       "color": "Grey",
+      "trim": "Avenir",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/c35d18b2f82d.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70820783/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70820783/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -373,14 +435,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Avenir Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touring Panoramic Moonroof",
       "vin": "LRBFZPR40TD092091",
       "stock": "C092091",
       "color": "Grey",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/f3ceb6affe57.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70831611/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70831611/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -390,14 +455,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touring Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touring Panoramic Moonroof",
       "vin": "LRBFZPR47TD092220",
       "stock": "C092220",
       "color": "Red",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/d3000b29d6e3.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70831617/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70831617/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -407,14 +475,17 @@
       "odometer_km": 8,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touring Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touring Panoramic Moonroof",
       "vin": "LRBFZPR48TD100518",
       "stock": "C100518",
       "color": "Red",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/fe952e6f877f.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70849918/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70849918/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -424,14 +495,17 @@
       "odometer_km": 8,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touring Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touring Adaptive Cruise Control",
       "vin": "LRBFZPR46TD091723",
       "stock": "C091723",
       "color": "Blue",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4fb3efb8fae5.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70849920/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70849920/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -441,14 +515,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touring Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touring Panoramic Moonroof",
       "vin": "LRBFZPR40TD091989",
       "stock": "C091989",
       "color": "Black",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/13d72a75b0a2.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70873009/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/buick/envision/parksville/bc/70873009/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -458,8 +535,10 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touring Panoramic Moonroof",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista Sport Touring Heated Seats/Steering Wheel",
@@ -476,13 +555,16 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envista Sport Touring Heated Seats/Steering Wheel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazer RS Panoramic Sunroof Adaptive Cruise Control",
       "vin": "3GNKBKR43TS193768",
       "stock": "C193768",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/d550cc11e9f6.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/blazer/parksville/bc/70989678/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/blazer/parksville/bc/70989678/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -492,14 +574,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Blazer RS Panoramic Sunroof Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Blazer",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazer RS Panoramic Sunroof",
       "vin": "3GNKBKR44TS188594",
       "stock": "C188594",
       "color": "Grey",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/3f71eaf6355c.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/blazer/parksville/bc/70989692/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/blazer/parksville/bc/70989692/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -509,14 +594,17 @@
       "odometer_km": 9,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Blazer RS Panoramic Sunroof",
-      "condition": "new"
+      "model": "Blazer",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazer True North Plus Panoramic Sunroof",
       "vin": "3GNKBJR46TS195900",
       "stock": "C195900",
       "color": "Red",
+      "trim": "True North Plus",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/c2e42a92340a.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/blazer/parksville/bc/71164945/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/blazer/parksville/bc/71164945/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -526,14 +614,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Blazer True North Plus Panoramic Sunroof",
-      "condition": "new"
+      "model": "Blazer",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado Z71 Power Sunroof",
       "vin": "1GCPTDEKXT1208277",
       "stock": "C208277",
       "color": "Orange",
+      "trim": "Z71",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/0a7e974a566f.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/colorado/parksville/bc/69939478/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/colorado/parksville/bc/69939478/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -543,14 +634,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado Z71 Power Sunroof",
-      "condition": "new"
+      "model": "Colorado",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado 4WD LT",
       "vin": "1GCPTCEK8T1313829",
       "stock": "C313829",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/1a83b10b067f.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/colorado/parksville/bc/71097931/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/colorado/parksville/bc/71097931/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -560,8 +654,10 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado 4WD LT",
-      "condition": "new"
+      "model": "Colorado",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -576,7 +672,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -591,7 +689,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado",
@@ -604,13 +704,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette 3LT Z51 Performance",
       "vin": "1G1YC2D47T5100759",
       "stock": "C100759",
       "color": "Violet",
+      "trim": "3LT Z51 Performance",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/9e271e1bd09e.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/corvette/parksville/bc/68111247/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/corvette/parksville/bc/68111247/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -620,14 +723,17 @@
       "odometer_km": 7,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette 3LT Z51 Performance",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette Z06 2LZ",
       "vin": "1G1YE3D30T5605002",
       "stock": "C605002",
       "color": "Yellow",
+      "trim": "Z06 2LZ",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/86c0d31cd58d.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/corvette/parksville/bc/69680161/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/corvette/parksville/bc/69680161/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -637,14 +743,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette Z06 2LZ",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette 3LZ Z07 Performance Package",
       "vin": "1G1YF3D37T5606290",
       "stock": "C606290",
       "color": "Black",
+      "trim": "3LZ Z07 Performance Package",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/bb9630b21b80.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/corvette/parksville/bc/70212969/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/corvette/parksville/bc/70212969/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -654,14 +763,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette 3LZ Z07 Performance Package",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV RS Power Sunroof Dual Motor",
       "vin": "3GN7DSRR1TS105148",
       "stock": "C105148",
       "color": "Orange",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/0abb9a32583d.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/70445099/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/70445099/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -671,14 +783,17 @@
       "odometer_km": 106,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV RS Power Sunroof Dual Motor",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV RS Power Sunroof Dual Motor",
       "vin": "3GN7DSRR5TS104293",
       "stock": "C104293",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/17a5ea200047.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/70445100/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/70445100/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -688,14 +803,17 @@
       "odometer_km": 102,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV RS Power Sunroof Dual Motor",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV RS Power Sunroof Dual Motor",
       "vin": "3GN7DSRRXTS132039",
       "stock": "C132039",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/47992ec3d043.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/70462938/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/70462938/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -705,14 +823,17 @@
       "odometer_km": 98,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV RS Power Sunroof Dual Motor",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV RS Super Cruise Power Sunroof",
       "vin": "3GN7DSRR8TS118480",
       "stock": "C118480",
       "color": "Red",
+      "trim": "RS Super Cruise",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/5f91de00b946.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/70472890/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/70472890/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -722,8 +843,10 @@
       "odometer_km": 78,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV RS Super Cruise Power Sunroof",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT Remote Start Heated Seats/Steering Wheel",
@@ -740,13 +863,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox EV LT Remote Start Heated Seats/Steering Wheel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT Panoramic Sunroof",
       "vin": "3GN7DLRP5TS191729",
       "stock": "C191729",
       "color": "Blue",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/38c3eb634324.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/70989679/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/70989679/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -756,14 +882,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV LT Panoramic Sunroof",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT Adaptive Cruise Control",
       "vin": "3GN7DLRR4TS193070",
       "stock": "C193070",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/a63c62d90f73.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/71375460/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/equinox-ev/parksville/bc/71375460/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -773,14 +902,17 @@
       "odometer_km": 63,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Express 2500 2500",
       "vin": "1GCWGBFP5T1241329",
       "stock": "CF24132",
       "color": "White",
+      "trim": "2500 2500",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/86896ac9f29d.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/express-2500/parksville/bc/70351134/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/express-2500/parksville/bc/70351134/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -790,14 +922,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Express 2500 2500",
-      "condition": "new"
+      "model": "Express",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab Work Truck",
       "vin": "3GCUKAEDXTG151571",
       "stock": "CF15157",
       "color": "White",
+      "trim": "Work Truck",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/51407e13cc97.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/parksville/bc/70972081/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/parksville/bc/70972081/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -807,14 +942,17 @@
       "odometer_km": 12389,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab Work Truck",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab LT Trail Boss Premium Adaptive Cruise Control",
       "vin": "3GCUKFE87TG457241",
       "stock": "C457241",
       "color": "White",
+      "trim": "LT Trail Boss Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/1019270f2a91.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/parksville/bc/70989684/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/parksville/bc/70989684/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -824,14 +962,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab LT Trail Boss Premium Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab Custom Trail Boss Remote Start",
       "vin": "3GCPKCEKXTG468452",
       "stock": "C468452",
       "color": "Brown",
+      "trim": "Custom Trail Boss Remote Start",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/80ad41387ede.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/parksville/bc/70989686/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/parksville/bc/70989686/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -841,14 +982,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab Custom Trail Boss Remote Start",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab Work Truck",
       "vin": "1GCPKAEKXTZ477186",
       "stock": "CF47718",
       "color": "White",
+      "trim": "Work Truck",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/8772d2906643.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/parksville/bc/71067372/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/parksville/bc/71067372/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -858,8 +1002,10 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab Work Truck",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -874,7 +1020,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -889,7 +1037,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -904,7 +1054,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -919,7 +1071,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -934,7 +1088,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -949,7 +1105,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -964,7 +1122,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -979,7 +1139,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -994,13 +1156,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 LT Trail Boss *INCOMING UNIT*",
       "vin": "3GCUKFED4TG460742",
       "stock": "C460742",
       "color": "Grey",
+      "trim": "LT Trail Boss *INCOMING UNIT*",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/141888085aab.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-1500/parksville/bc/70848160/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-1500/parksville/bc/70848160/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1010,8 +1175,10 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 LT Trail Boss *INCOMING UNIT*",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 2500 Crew Cab ",
@@ -1026,13 +1193,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 2500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 2500 Custom Remote Start",
       "vin": "1GC4KMEY4TF276782",
       "stock": "CF27678",
       "color": "White",
+      "trim": "Custom Remote Start",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/8ae095a3ffa1.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-2500/parksville/bc/70548884/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-2500/parksville/bc/70548884/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1042,14 +1212,17 @@
       "odometer_km": 7,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 2500 Custom Remote Start",
-      "condition": "new"
+      "model": "Silverado 2500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 3500HD CC Work Truck",
       "vin": "1GB3KSEY1TF278347",
       "stock": "CF27834",
       "color": "White",
+      "trim": "3500HD CC Work Truck",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/b064fa6bbade.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd-cc/parksville/bc/71385121/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd-cc/parksville/bc/71385121/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1059,14 +1232,17 @@
       "odometer_km": 8,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 3500HD CC Work Truck",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 3500HD High Country Premium Power Sunroof",
       "vin": "1GC4KVEY1TF276003",
       "stock": "C276003",
       "color": "White",
+      "trim": "3500HD High Country Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/117841755e46.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/69961206/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/69961206/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1076,14 +1252,17 @@
       "odometer_km": 8,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 3500HD High Country Premium Power Sunroof",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 3500HD LT True North Trail Boss",
       "vin": "2GC4KTEY0T1198163",
       "stock": "C198163",
       "color": "White",
+      "trim": "3500HD LT True North Trail Boss",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/df730f7d0748.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/70192561/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/70192561/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1093,14 +1272,17 @@
       "odometer_km": 200,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 3500HD LT True North Trail Boss",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 3500HD LTZ *INCOMING UNIT*",
       "vin": "1GC4KUEY8TF158024",
       "stock": "C158024",
       "color": "Grey",
+      "trim": "3500HD LTZ *INCOMING UNIT*",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/402441039f35.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/70838528/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/70838528/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1110,14 +1292,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 3500HD LTZ *INCOMING UNIT*",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 3500HD Work Truck",
       "vin": "1GC4KSEY2TF362354",
       "stock": "CF36235",
       "color": "White",
+      "trim": "3500HD Work Truck",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/bb7487c2bcc4.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/70989677/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/70989677/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1127,14 +1312,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 3500HD Work Truck",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 3500HD Work Truck",
       "vin": "2GC4KSEYXT1225105",
       "stock": "CF22510",
       "color": "White",
+      "trim": "3500HD Work Truck",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/1b8631058de5.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/71002082/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/71002082/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1144,14 +1332,17 @@
       "odometer_km": 9,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 3500HD Work Truck",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 3500HD LT *INCOMING UNIT*",
       "vin": "2GC4KTEY5T1134832",
       "stock": "C134832",
       "color": "Grey",
+      "trim": "3500HD LT *INCOMING UNIT*",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/55c8c11684fc.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/71210492/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-3500hd/parksville/bc/71210492/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1161,14 +1352,17 @@
       "odometer_km": 132,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 3500HD LT *INCOMING UNIT*",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 Regular Cab Work Truck",
       "vin": "1GC3KSE74TF215035",
       "stock": "C215035",
       "color": "White",
+      "trim": "Work Truck",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/0e4a11dd58e2.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-regular-cab/parksville/bc/70431970/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/silverado-3500-regular-cab/parksville/bc/70431970/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1178,8 +1372,10 @@
       "odometer_km": 103,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 Regular Cab Work Truck",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado EV ",
@@ -1194,13 +1390,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe Premier Panoramic Sunroof",
       "vin": "1GNS6SK85TR444634",
       "stock": "C444634",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/6e94d40c41b6.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/tahoe/parksville/bc/70989659/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/tahoe/parksville/bc/70989659/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1210,14 +1409,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Tahoe Premier Panoramic Sunroof",
-      "condition": "new"
+      "model": "Tahoe",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe LT Panoramic Sunroof",
       "vin": "1GNS6NK8XTR438703",
       "stock": "C438703",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/fa9cfa2beac4.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/tahoe/parksville/bc/70989663/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/tahoe/parksville/bc/70989663/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1227,14 +1429,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Tahoe LT Panoramic Sunroof",
-      "condition": "new"
+      "model": "Tahoe",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe High Country Deluxe Panoramic Sunroof",
       "vin": "1GNS6TKL0TR446348",
       "stock": "C446348",
       "color": "Black",
+      "trim": "High Country Deluxe",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/6d688bf61156.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/tahoe/parksville/bc/70989691/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/tahoe/parksville/bc/70989691/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1244,14 +1449,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Tahoe High Country Deluxe Panoramic Sunroof",
-      "condition": "new"
+      "model": "Tahoe",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe RST",
       "vin": "1GNS6RK87TR475523",
       "stock": "C475523",
       "color": "White",
+      "trim": "RST",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4de9c88280b1.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/tahoe/parksville/bc/71234883/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/tahoe/parksville/bc/71234883/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1261,14 +1469,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Tahoe RST",
-      "condition": "new"
+      "model": "Tahoe",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trailblazer RS Panoramic Sunroof Adaptive Cruise Control",
       "vin": "KL79MUSL4TB283339",
       "stock": "C283339",
       "color": "Blue",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/050a61655f84.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trailblazer/parksville/bc/71138252/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trailblazer/parksville/bc/71138252/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1278,14 +1489,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trailblazer RS Panoramic Sunroof Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Trailblazer",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trailblazer RS Panoramic Sunroof",
       "vin": "KL79MUSL4TB280943",
       "stock": "C280943",
       "color": "Red",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/dbfa6e345145.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trailblazer/parksville/bc/71138255/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trailblazer/parksville/bc/71138255/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1295,14 +1509,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trailblazer RS Panoramic Sunroof",
-      "condition": "new"
+      "model": "Trailblazer",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ACTIV Heated Seats/Steering Wheel",
       "vin": "KL77LKE27TC223356",
       "stock": "C223356",
       "color": "Black",
+      "trim": "ACTIV Heated Seats/Steering Wheel",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/d4d6e2dc7e15.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/70787944/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/70787944/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1312,14 +1529,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax ACTIV Heated Seats/Steering Wheel",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax 2RS Sunroof",
       "vin": "KL77LJE28TC219746",
       "stock": "C219746",
       "color": "Grey",
+      "trim": "2RS Sunroof",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/ec8edb7f2443.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/70848166/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/70848166/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1329,14 +1549,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax 2RS Sunroof",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax LT Midnight Edition Adaptive Cruise Control",
       "vin": "KL77LHE28TC250732",
       "stock": "C250732",
       "color": "White",
+      "trim": "LT Midnight Edition",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/6c5c9ba16a56.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/71097925/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/71097925/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1346,14 +1569,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax LT Midnight Edition Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax LT Midnight Edition Sunroof",
       "vin": "KL77LHE20TC246948",
       "stock": "C246948",
       "color": "Red",
+      "trim": "LT Midnight Edition Sunroof",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/df85758bcc7d.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/71097933/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/71097933/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1363,14 +1589,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax LT Midnight Edition Sunroof",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax 2RS Sunroof Adaptive Cruise Control",
       "vin": "KL77LJE22TC231942",
       "stock": "C231942",
       "color": "Blue",
+      "trim": "2RS Sunroof",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/15388a903a12.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/71138245/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/71138245/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1380,14 +1609,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax 2RS Sunroof Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ACTIV Sunroof",
       "vin": "KL77LKE25TC264164",
       "stock": "C264164",
       "color": "White",
+      "trim": "ACTIV Sunroof",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/683afb56eba9.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/71164948/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/71164948/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1397,14 +1629,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax ACTIV Sunroof",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax LT Sunroof Adaptive Cruise Control",
       "vin": "KL77LHE26TC030408",
       "stock": "C030408",
       "color": "White",
+      "trim": "LT Sunroof",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/fcf282cba0b3.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/71198595/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/chevrolet/trax/parksville/bc/71198595/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1414,14 +1649,17 @@
       "odometer_km": 27,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax LT Sunroof Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia Elevation Premium Panoramic Sunroof",
       "vin": "1GKENNKS7TJ324942",
       "stock": "C324942",
       "color": "Black",
+      "trim": "Elevation Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/1f57c75710e1.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/acadia/parksville/bc/69939477/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/acadia/parksville/bc/69939477/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1431,14 +1669,17 @@
       "odometer_km": 6219,
       "year": 2026,
       "make": "GMC",
-      "model": "Acadia Elevation Premium Panoramic Sunroof",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4 Premium Nightfall Edition",
       "vin": "1GTP2DEKXT1255442",
       "stock": "C255442",
       "color": "Red",
+      "trim": "AT4 Premium Nightfall Edition",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/b791243614ab.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/canyon/parksville/bc/70225455/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/canyon/parksville/bc/70225455/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1448,14 +1689,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4 Premium Nightfall Edition",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon Denali Power Sunroof",
       "vin": "1GTP2FEK9T1302696",
       "stock": "C302696",
       "color": "Grey",
+      "trim": "Denali",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/ea8c883952de.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/canyon/parksville/bc/71092934/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/canyon/parksville/bc/71092934/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1465,14 +1709,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon Denali Power Sunroof",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon Elevation Premium Remote Start",
       "vin": "1GTP2BEK5T1318533",
       "stock": "C318533",
       "color": "Black",
+      "trim": "Elevation Premium Remote Start",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/87a60a3ac457.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/canyon/parksville/bc/71323986/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/canyon/parksville/bc/71323986/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1482,8 +1729,10 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon Elevation Premium Remote Start",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ",
@@ -1498,13 +1747,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Savana Cargo Van 2500",
       "vin": "1GTW7AFP4T1241705",
       "stock": "CF24170",
       "color": "White",
+      "trim": "Van 2500",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4ad9b6d26fe3.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/savana-cargo-van/parksville/bc/70351135/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/savana-cargo-van/parksville/bc/70351135/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1514,14 +1766,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "GMC",
-      "model": "Savana Cargo Van 2500",
-      "condition": "new"
+      "model": "Savana",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab Elevation Adaptive Cruise Control",
       "vin": "1GTUUCED1TZ393154",
       "stock": "C393154",
       "color": "Grey",
+      "trim": "Elevation",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/438cbafed173.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70294467/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70294467/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1531,14 +1786,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab Elevation Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab SLE *INCOMING UNIT*",
       "vin": "3GTPUBEK5TG389730",
       "stock": "C389730",
       "color": "White",
+      "trim": "SLE *INCOMING UNIT*",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/f60fb2c6634b.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70294470/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70294470/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1548,14 +1806,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab SLE *INCOMING UNIT*",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab Denali Reserve Power Sunroof",
       "vin": "3GTUUGEL0TG219168",
       "stock": "C219168",
       "color": "White",
+      "trim": "Denali Reserve",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/570238afc9b7.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70873008/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70873008/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1565,14 +1826,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab Denali Reserve Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab Pro Graphite Edition",
       "vin": "1GTUUAEDXTZ453811",
       "stock": "C453811",
       "color": "Brown",
+      "trim": "Pro Graphite Edition",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4959b7d4fad7.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70989661/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70989661/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1582,14 +1846,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab Pro Graphite Edition",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab AT4X AEV Edition Power Sunroof",
       "vin": "3GTUUFELXTG427990",
       "stock": "C427990",
       "color": "White",
+      "trim": "AT4X AEV Edition",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/bcb20b6d611e.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70989662/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70989662/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1599,14 +1866,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab AT4X AEV Edition Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab Pro Graphite Edition",
       "vin": "1GTPUAEK7TZ467824",
       "stock": "C467824",
       "color": "Brown",
+      "trim": "Pro Graphite Edition",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/b93b3a0571e8.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70989682/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/70989682/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1616,14 +1886,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab Pro Graphite Edition",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab Elevation Remote Start Heated Seats",
       "vin": "3GTUUCED3TG480649",
       "stock": "C480649",
       "color": "White",
+      "trim": "Elevation Remote Start Heated Seats",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/28bdc0d4945d.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/71002073/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/71002073/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1633,14 +1906,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab Elevation Remote Start Heated Seats",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab Denali Reserve Power Sunroof",
       "vin": "1GTUUGE88TZ486814",
       "stock": "C486814",
       "color": "White",
+      "trim": "Denali Reserve",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/968ebf878251.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/71138258/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/71138258/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1650,14 +1926,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab Denali Reserve Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab Denali Reserve Power Sunroof",
       "vin": "1GTUUGEL7TZ488381",
       "stock": "C488381",
       "color": "White",
+      "trim": "Denali Reserve",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/3d7d5b629f8d.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/71152489/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/71152489/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1667,14 +1946,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab Denali Reserve Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab Denali Reserve Power Sunroof",
       "vin": "1GTUUGEL0TZ485564",
       "stock": "C485564",
       "color": "Grey",
+      "trim": "Denali Reserve",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/d5913c98552e.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/71152491/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-1500-crew-cab/parksville/bc/71152491/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1684,8 +1966,10 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab Denali Reserve Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab ",
@@ -1700,7 +1984,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab ",
@@ -1715,7 +2001,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab ",
@@ -1730,7 +2018,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab ",
@@ -1745,13 +2035,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 2500HD Pro",
       "vin": "1GT4ULEYXTF342370",
       "stock": "CF34237",
       "color": "White",
+      "trim": "Pro",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/591ccc1f4031.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-2500hd/parksville/bc/70989660/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-2500hd/parksville/bc/70989660/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1761,14 +2054,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 2500HD Pro",
-      "condition": "new"
+      "model": "Sierra 2500HD",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD Denali Reserve Power Sunroof",
       "vin": "1GT4UWEY9TF329367",
       "stock": "C329367",
       "color": "Grey",
+      "trim": "Denali Reserve",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/449dd4f011a0.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/70584898/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/70584898/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1778,14 +2074,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD Denali Reserve Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD Pro *INCOMING UNIT*",
       "vin": "1GT4USEY6TF250070",
       "stock": "C250070",
       "color": "White",
+      "trim": "Pro *INCOMING UNIT*",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/2bd792c0269b.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/70777687/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/70777687/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1795,14 +2094,17 @@
       "odometer_km": 27,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD Pro *INCOMING UNIT*",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD AT4 Premium Plus Power Sunroof",
       "vin": "1GT4UVEY3TF337717",
       "stock": "C337717",
       "color": "Red",
+      "trim": "AT4 Premium Plus",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/9ad7207708d1.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/70954217/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/70954217/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1812,14 +2114,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD AT4 Premium Plus Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD Denali Reserve Power Sunroof",
       "vin": "1GT4UWEY3TF363868",
       "stock": "C363868",
       "color": "White",
+      "trim": "Denali Reserve",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/2688a4b36c68.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/70989657/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/70989657/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1829,14 +2134,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD Denali Reserve Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD AT4 Premium Power Sunroof",
       "vin": "1GT4UVEY0TF350697",
       "stock": "C350697",
       "color": "Black",
+      "trim": "AT4 Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/90752ce2cf06.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/70989672/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/70989672/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1846,14 +2154,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD AT4 Premium Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD Denali Ultimate Heated/Ventilated Seats",
       "vin": "1GT4UYEY0TF373267",
       "stock": "C373267",
       "color": "Grey",
+      "trim": "Denali Ultimate Heated/Ventilated Seats",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/7010a43a4271.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/71012947/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/71012947/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1863,14 +2174,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD Denali Ultimate Heated/Ventilated Seats",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD SLT Premium Power Sunroof",
       "vin": "1GT4UUEY3TF369240",
       "stock": "C369240",
       "color": "Grey",
+      "trim": "SLT Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/b121f74857f9.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/71067388/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/71067388/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1880,8 +2194,10 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD SLT Premium Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -1896,7 +2212,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -1911,13 +2229,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD Denali Reserve Power Sunroof",
       "vin": "1GT4UWEYXTF295178",
       "stock": "C295178",
       "color": "Black",
+      "trim": "Denali Reserve",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/007beafcb005.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/71261013/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/71261013/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1927,14 +2248,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD Denali Reserve Power Sunroof",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD AT4",
       "vin": "1GT4UVEY5TF393450",
       "stock": "C393450",
       "color": "White",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/cefd7e1915e4.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/71262346/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/sierra-3500hd/parksville/bc/71262346/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1944,8 +2268,10 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD AT4",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -1960,7 +2286,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -1975,7 +2303,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -1990,7 +2320,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2005,7 +2337,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2020,7 +2354,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2035,7 +2371,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2050,7 +2388,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2065,7 +2405,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2080,7 +2422,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2095,7 +2439,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2110,7 +2456,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2125,7 +2473,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2140,7 +2490,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2155,7 +2507,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2170,7 +2524,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2185,13 +2541,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon XL AT4 Ultimate Panoramic Sunroof",
       "vin": "1GKS2WKL0TR400321",
       "stock": "C400321",
       "color": "Black",
+      "trim": "AT4 Ultimate",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4e912ad24ca5.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon-xl/parksville/bc/70849917/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon-xl/parksville/bc/70849917/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2201,14 +2560,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "GMC",
-      "model": "Yukon XL AT4 Ultimate Panoramic Sunroof",
-      "condition": "new"
+      "model": "Yukon XL",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon Denali Reserve Panoramic Sunroof",
       "vin": "1GKS2DKL9TR396676",
       "stock": "C396676",
       "color": "White",
+      "trim": "Denali Reserve",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/3e07db65448a.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70497336/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70497336/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2218,14 +2580,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "GMC",
-      "model": "Yukon Denali Reserve Panoramic Sunroof",
-      "condition": "new"
+      "model": "Yukon",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon AT4 Premium Plus Super Cruise",
       "vin": "1GKS2CKD6TR397965",
       "stock": "C397965",
       "color": "Grey",
+      "trim": "AT4 Premium Plus Super Cruise",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/952e78d4d09c.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70584885/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70584885/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2235,14 +2600,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "GMC",
-      "model": "Yukon AT4 Premium Plus Super Cruise",
-      "condition": "new"
+      "model": "Yukon",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon Elevation Premium Panoramic Sunroof",
       "vin": "1GKS2BKD8TR389652",
       "stock": "C389652",
       "color": "White",
+      "trim": "Elevation Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/11b60ff4aed9.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70584894/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70584894/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2252,14 +2620,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "GMC",
-      "model": "Yukon Elevation Premium Panoramic Sunroof",
-      "condition": "new"
+      "model": "Yukon",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon Elevation Remote Start Heated Seats",
       "vin": "1GKS2BKD5TR359265",
       "stock": "C359265",
       "color": "White",
+      "trim": "Elevation Remote Start Heated Seats",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/52407ad91b37.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70919284/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70919284/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2269,14 +2640,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "GMC",
-      "model": "Yukon Elevation Remote Start Heated Seats",
-      "condition": "new"
+      "model": "Yukon",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon Elevation Premium Panoramic Sunroof",
       "vin": "1GKS2BKD0TR406220",
       "stock": "C406220",
       "color": "Grey",
+      "trim": "Elevation Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/1434c6cb4f06.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70954216/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70954216/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2286,14 +2660,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "GMC",
-      "model": "Yukon Elevation Premium Panoramic Sunroof",
-      "condition": "new"
+      "model": "Yukon",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon Denali Reserve Panoramic Sunroof",
       "vin": "1GKS2DKL5TR406118",
       "stock": "C406118",
       "color": "Blue",
+      "trim": "Denali Reserve",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4c196003c3a2.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70989688/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2026/gmc/yukon/parksville/bc/70989688/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2303,8 +2680,10 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "GMC",
-      "model": "Yukon Denali Reserve Panoramic Sunroof",
-      "condition": "new"
+      "model": "Yukon",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
@@ -2321,7 +2700,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
@@ -2338,7 +2719,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
@@ -2355,13 +2738,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV9VF121133",
       "stock": "C121133",
       "color": "Green",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/5cda49698d45.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71025142/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71025142/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2371,8 +2757,10 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
@@ -2389,13 +2777,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV0VF120839",
       "stock": "C120839",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/23571273adeb.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71028189/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71028189/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2405,14 +2796,17 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV2VF120759",
       "stock": "C120759",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/1f2211864825.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71028190/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71028190/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2422,14 +2816,17 @@
       "odometer_km": 6,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV2VF121278",
       "stock": "C121278",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/746fd7231426.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067367/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067367/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2439,14 +2836,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV9VF121147",
       "stock": "C121147",
       "color": "Green",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/e0dd284a4d8b.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067373/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067373/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2456,14 +2856,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV8VF121141",
       "stock": "C121141",
       "color": "Green",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/d48236c1cac3.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067379/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067379/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2473,14 +2876,17 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS *INCOMING UNIT*",
       "vin": "1G1FZ6EV1VF121267",
       "stock": "C121267",
       "color": "Grey",
+      "trim": "RS *INCOMING UNIT*",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/05cc5032051f.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067383/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067383/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2490,14 +2896,17 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt RS *INCOMING UNIT*",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV7VF121146",
       "stock": "C121146",
       "color": "Green",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/809cc533cc2e.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067385/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067385/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2507,14 +2916,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV7VF121275",
       "stock": "C121275",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/349ab0b07a15.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067399/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067399/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2524,14 +2936,17 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV9VF121276",
       "stock": "C121276",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/57029d770fb6.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067402/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067402/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2541,14 +2956,17 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS *INCOMING UNIT*",
       "vin": "1G1FZ6EV3VF119407",
       "stock": "C119407",
       "color": "Yellow",
+      "trim": "RS *INCOMING UNIT*",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/84a364018a55.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067405/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71067405/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2558,8 +2976,10 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt RS *INCOMING UNIT*",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
@@ -2576,13 +2996,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV6VF117069",
       "stock": "C117069",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/2dbd773da57a.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71145376/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71145376/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2592,14 +3015,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV8VF118207",
       "stock": "C118207",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/11e6d55b7b95.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71164277/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71164277/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2609,14 +3035,17 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV6VF118206",
       "stock": "C118206",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/d9e2fb372f93.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71164278/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71164278/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2626,14 +3055,17 @@
       "odometer_km": 6,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV7VF102290",
       "stock": "C102290",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/8d2e6850d183.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71198591/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71198591/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2643,14 +3075,17 @@
       "odometer_km": 26,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV8VF111077",
       "stock": "C111077",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/7e7e34aa0a44.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71198592/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71198592/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2660,14 +3095,17 @@
       "odometer_km": 28,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS *INCOMING UNIT*",
       "vin": "1G1FZ6EV4VF111235",
       "stock": "C111235",
       "color": "Black",
+      "trim": "RS *INCOMING UNIT*",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/46284f0687ac.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71198594/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71198594/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2677,14 +3115,17 @@
       "odometer_km": 26,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt RS *INCOMING UNIT*",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV7VF110406",
       "stock": "C110406",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/1c03c51b5993.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204228/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204228/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2694,14 +3135,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV8VF110432",
       "stock": "C110432",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/620c3f3b5c8c.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204229/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204229/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2711,14 +3155,17 @@
       "odometer_km": 32,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV5VF110324",
       "stock": "C110324",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/eaf4ae5146e1.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204230/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204230/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2728,14 +3175,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV1VF110322",
       "stock": "C110322",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/db19ca116b80.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204233/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204233/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2745,14 +3195,17 @@
       "odometer_km": 30,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV3VF110208",
       "stock": "C110208",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/36a4aaac632e.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204234/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204234/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2762,14 +3215,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV6VF109067",
       "stock": "C109067",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/e4e1949d92d4.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204237/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204237/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2779,14 +3235,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT *INCOMING UNIT*",
       "vin": "1G1FY6EV3VF110323",
       "stock": "C110323",
       "color": "White",
+      "trim": "LT *INCOMING UNIT*",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/e280380f7ec5.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204238/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204238/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2796,14 +3255,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT *INCOMING UNIT*",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EVXVF102526",
       "stock": "C102526",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/1ff774e43019.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204239/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204239/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2813,8 +3275,10 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
@@ -2831,13 +3295,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV6VF100997",
       "stock": "C100997",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/c0d6cad91dad.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204242/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71204242/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2847,8 +3314,10 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
@@ -2865,13 +3334,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt RS Heated/Ventilated Seats Heated Steering Wheel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV4VF122285",
       "stock": "C122285",
       "color": "Blue",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/3ac83fa81642.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71211563/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71211563/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2881,14 +3353,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV5VF123235",
       "stock": "C123235",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/3d6889fa2ab6.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71239469/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71239469/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2898,14 +3373,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT Adaptive Cruise Control",
       "vin": "1G1FY6EV0VF123238",
       "stock": "C123238",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/69c0da0f7045.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71239474/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/71239474/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2915,8 +3393,10 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt ",
@@ -2931,7 +3411,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt ",
@@ -2946,7 +3428,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt ",
@@ -2963,7 +3447,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt ",
@@ -2978,13 +3464,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Corvette 2LZ Heated/Ventilated Seats",
       "vin": "1G1YE3D38V5600164",
       "stock": "C600164",
       "color": "Red",
+      "trim": "2LZ Heated/Ventilated Seats",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/f20e85fd44f9.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/corvette/parksville/bc/70696685/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/corvette/parksville/bc/70696685/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2994,14 +3483,17 @@
       "odometer_km": 13,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Corvette 2LZ Heated/Ventilated Seats",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Corvette Z06 1LZ",
       "vin": "1G1YD3D30V5600260",
       "stock": "C600260",
       "color": "Orange",
+      "trim": "Z06 1LZ",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/a89c6e7034e2.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/corvette/parksville/bc/70831612/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/corvette/parksville/bc/70831612/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3011,8 +3503,10 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Corvette Z06 1LZ",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV ",
@@ -3027,7 +3521,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV ",
@@ -3042,13 +3538,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox AWD LT Adaptive Cruise Control",
       "vin": "3GNAXPEG3VL157392",
       "stock": "C157392",
       "color": "Autumn Harvest Metallic",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/d99d68a424a2.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/equinox/parksville/bc/70989689/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/equinox/parksville/bc/70989689/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3058,14 +3557,17 @@
       "odometer_km": 6,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox AWD LT Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox AWD RS Sunroof",
       "vin": "3GNAXTEG3VL186268",
       "stock": "C186268",
       "color": "Grey",
+      "trim": "RS Sunroof",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4da04a8e2fb8.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/equinox/parksville/bc/71097934/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/equinox/parksville/bc/71097934/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3075,8 +3577,10 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox AWD RS Sunroof",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ",
@@ -3091,7 +3595,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Suburban",
@@ -3104,7 +3610,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Suburban",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Tahoe",
@@ -3117,13 +3625,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Tahoe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse LT Power Sunroof Adaptive Cruise Control",
       "vin": "1GNEVGKS7VJ141445",
       "stock": "C141445",
       "color": "Green",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/392a591fe47a.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/traverse/parksville/bc/71234881/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/traverse/parksville/bc/71234881/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3133,8 +3644,10 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Traverse LT Power Sunroof Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Traverse",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse ",
@@ -3149,13 +3662,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Acadia Elevation Premium Panoramic Sunroof",
       "vin": "1GKEMNKSXVJ113904",
       "stock": "C113904",
       "color": "Grey",
+      "trim": "Elevation Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/eb4ee8ff3bfe.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/gmc/acadia/parksville/bc/70989680/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/gmc/acadia/parksville/bc/70989680/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3165,8 +3681,10 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "GMC",
-      "model": "Acadia Elevation Premium Panoramic Sunroof",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Acadia ",
@@ -3181,13 +3699,16 @@
       "year": 2027,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain AWD Denali Panoramic Sunroof",
       "vin": "3GKALZEG7VL158467",
       "stock": "C158467",
       "color": "Blue",
+      "trim": "Denali",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4edb785ad0c2.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/gmc/terrain/parksville/bc/71002077/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/gmc/terrain/parksville/bc/71002077/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3197,14 +3718,17 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "GMC",
-      "model": "Terrain AWD Denali Panoramic Sunroof",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain Elevation Premium Sunroof",
       "vin": "3GKALUEG4VL168036",
       "stock": "C168036",
       "color": "White",
+      "trim": "Elevation Premium Sunroof",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4b9348e91f54.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/gmc/terrain/parksville/bc/71012948/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/gmc/terrain/parksville/bc/71012948/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3214,14 +3738,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "GMC",
-      "model": "Terrain Elevation Premium Sunroof",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain AWD AT4 Sunroof",
       "vin": "3GKALYEGXVL185334",
       "stock": "C185334",
       "color": "Grey",
+      "trim": "AT4 Sunroof",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/255eec08e990.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/gmc/terrain/parksville/bc/71097920/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/gmc/terrain/parksville/bc/71097920/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3231,14 +3758,17 @@
       "odometer_km": 2,
       "year": 2027,
       "make": "GMC",
-      "model": "Terrain AWD AT4 Sunroof",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain AWD Elevation Premium Adaptive Cruise Control",
       "vin": "3GKALUEG3VL182753",
       "stock": "C182753",
       "color": "Blue",
+      "trim": "Elevation Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/b1f45405e741.html",
       "source_url": "https://www.harrisoceansidegm.com/vehicles/2027/gmc/terrain/parksville/bc/71138257/?sale_class=new",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/gmc/terrain/parksville/bc/71138257/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3248,8 +3778,10 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "GMC",
-      "model": "Terrain AWD Elevation Premium Adaptive Cruise Control",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain ",
@@ -3264,7 +3796,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain",
@@ -3277,7 +3811,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain ",
@@ -3292,7 +3828,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain",
@@ -3305,7 +3843,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     }
   ]
 }

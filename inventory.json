@@ -1,7 +1,7 @@
 {
   "dealership": "Harris Oceanside Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-17T18:18:02",
-  "vehicle_count": 263,
+  "generated_at": "2026-11-18T04:35:41",
+  "vehicle_count": 267,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -56,17 +56,6 @@
       "model": "Trax",
       "condition": "used",
       "price": 9999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Ford Fiesta Hatchback SE No Accidents",
-      "vin": "3FADP4EJ2FM201917",
-      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/2d473cdba326.html",
-      "year": 2015,
-      "make": "Ford",
-      "model": "Fiesta",
-      "condition": "used",
-      "price": 8891.0,
       "price_currency": "CAD"
     },
     {
@@ -352,6 +341,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Porsche Macan S *INCOMING UNIT*",
+      "vin": "WP1AB2A52LLB30268",
+      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/ced350c47072.html",
+      "year": 2020,
+      "make": "Porsche",
+      "model": "Macan",
+      "condition": "used",
+      "price": 39721.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Toyota C-HR XLE Heated Seats/Steering Wheel",
       "vin": "JTNKHMBX2L1064988",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/c0d6bd60ddfe.html",
@@ -427,6 +427,15 @@
       "condition": "used",
       "price": 22990.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Audi e-tron Sportback Technik Panoramic Sunroof Navigation",
+      "vin": "WA13AAGE0NB008543",
+      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/552f33b315ea.html",
+      "year": 2022,
+      "make": "Audi",
+      "model": "e-tron",
+      "condition": "used"
     },
     {
       "name": "2022 BMW X5 xDrive40i Panoramic Sunroof Navigation",
@@ -737,6 +746,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Chevrolet Silverado 1500 Custom Trail Boss *INCOMING UNIT*",
+      "vin": "3GCPDCEK7RG338034",
+      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/576b829065b1.html",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "used"
+    },
+    {
       "name": "2024 Chevrolet Trax 1RS Remote Start Heated Seats/Steering Wheel",
       "vin": "KL77LGE20RC217520",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/4503acda6503.html",
@@ -799,7 +817,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "used",
-      "price": 80273.0,
+      "price": 78999.0,
       "price_currency": "CAD"
     },
     {
@@ -810,7 +828,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 35916.0,
+      "price": 34213.0,
       "price_currency": "CAD"
     },
     {
@@ -836,6 +854,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Tesla Model 3 Long Range Navigation Glass Roof",
+      "vin": "LRW3E7EB0RC106023",
+      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/a18e8cc3798d.html",
+      "year": 2024,
+      "make": "Tesla",
+      "model": "Model 3",
+      "condition": "used",
+      "price": 49573.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Audi Q8 Progressiv No Accidents Panoramic Sunroof",
       "vin": "WA1DVBF18SD036040",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/01ac698ed755.html",
@@ -843,7 +872,7 @@
       "make": "Audi",
       "model": "Q8",
       "condition": "used",
-      "price": 69995.0,
+      "price": 67979.0,
       "price_currency": "CAD"
     },
     {
@@ -876,7 +905,18 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 53652.0,
+      "price": 52494.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Chevrolet Silverado 1500 Custom Trail Boss One Owner No Accidents",
+      "vin": "3GCUKCED2SG255045",
+      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/154b173e7c2b.html",
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "used",
+      "price": 47676.0,
       "price_currency": "CAD"
     },
     {
@@ -887,7 +927,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500",
       "condition": "used",
-      "price": 88694.0,
+      "price": 86439.0,
       "price_currency": "CAD"
     },
     {
@@ -898,7 +938,7 @@
       "make": "Chevrolet",
       "model": "Trax LT Remote Start Heated Seats/Steering Wheel",
       "condition": "used",
-      "price": 24899.0,
+      "price": 23499.0,
       "price_currency": "CAD"
     },
     {
@@ -909,7 +949,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 25328.0,
+      "price": 23996.0,
       "price_currency": "CAD"
     },
     {
@@ -920,7 +960,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 25380.0,
+      "price": 23883.0,
       "price_currency": "CAD"
     },
     {
@@ -931,7 +971,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 27990.0,
+      "price": 26994.0,
       "price_currency": "CAD"
     },
     {
@@ -964,7 +1004,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 64946.0,
+      "price": 68790.0,
       "price_currency": "CAD"
     },
     {
@@ -986,7 +1026,7 @@
       "make": "Land",
       "model": "Rover Range Rover SE One Owner No Accidents",
       "condition": "used",
-      "price": 133678.0,
+      "price": 136850.0,
       "price_currency": "CAD"
     },
     {
@@ -997,7 +1037,7 @@
       "make": "Lexus",
       "model": "UX",
       "condition": "used",
-      "price": 46990.0,
+      "price": 43685.0,
       "price_currency": "CAD"
     },
     {
@@ -1030,7 +1070,7 @@
       "make": "Audi",
       "model": "A3",
       "condition": "used",
-      "price": 38990.0,
+      "price": 37794.0,
       "price_currency": "CAD"
     },
     {
@@ -1298,17 +1338,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Cadillac Escalade Luxury No Accidents Panoramic Sunroof",
-      "vin": "1GYS9BKL0TR285813",
-      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/b2ef55088d45.html",
-      "year": 2026,
-      "make": "Cadillac",
-      "model": "Escalade",
-      "condition": "used",
-      "price": 123698.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Equinox EV RS Power Sunroof",
       "vin": "3GN7DSRR1TS118501",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/a28c903eaaaa.html",
@@ -1405,6 +1434,17 @@
       "model": "Silverado 1500 LT No Accidents Remote Start Heated Seats/Steering Wheel",
       "condition": "used",
       "price": 47722.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Tahoe High Country Power Sunroof Navigation",
+      "vin": "1GNS6TK8XTR130340",
+      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/6a8a1949e4d5.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "condition": "used",
+      "price": 99999.0,
       "price_currency": "CAD"
     },
     {
@@ -1694,14 +1734,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss",
+      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss Remote Start",
       "vin": "3GCUKCE82TG463902",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/f16f7475106c.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": -10000.0,
+      "price": 59509.0,
       "price_currency": "CAD"
     },
     {
@@ -2121,6 +2161,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 GMC Yukon Elevation *INCOMING UNIT*",
+      "vin": "1GKS2BKD5TR293512",
+      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/0f22c1f9a312.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Yukon",
+      "condition": "used",
+      "price": 87590.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 GMC Acadia Elevation Premium Panoramic Sunroof",
       "vin": "1GKENNKS7TJ324942",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/ec715c192052.html",
@@ -2132,7 +2183,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Canyon AT4 *INCOMING UNIT*",
+      "name": "2026 GMC Canyon AT4 Premium Power Sunroof",
       "vin": "1GTP2DEK5T1323419",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/f97a6769786c.html",
       "year": 2026,
@@ -2337,7 +2388,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": 113004.0,
+      "price": 110004.0,
       "price_currency": "CAD"
     },
     {
@@ -2612,7 +2663,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "new",
-      "price": 48294.0,
+      "price": 47294.0,
       "price_currency": "CAD"
     },
     {
@@ -2636,15 +2687,6 @@
       "condition": "new",
       "price": 45589.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Equinox AWD LT",
-      "vin": "3GNAXPEG9VL127314",
-      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/new/4fa31780df77.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "new"
     },
     {
       "name": "2027 Chevrolet Silverado EV Max Range Work Truck *INCOMING UNIT*",
@@ -2687,7 +2729,7 @@
       "make": "GMC",
       "model": "Acadia",
       "condition": "new",
-      "price": 62974.0,
+      "price": 61974.0,
       "price_currency": "CAD"
     },
     {
@@ -2784,7 +2826,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "new",
-      "price": 47504.0,
+      "price": 46504.0,
       "price_currency": "CAD"
     },
     {
@@ -2795,7 +2837,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "new",
-      "price": 49919.0,
+      "price": 49319.0,
       "price_currency": "CAD"
     },
     {
@@ -2806,7 +2848,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "new",
-      "price": 53444.0,
+      "price": 52444.0,
       "price_currency": "CAD"
     },
     {

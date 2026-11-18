@@ -1,6 +1,6 @@
 # Harris Oceanside Chevrolet Buick GMC Ltd.
 
- dealership in Parksville. AI-readable inventory mirror, about 263 vehicles.
+ dealership in Parksville. AI-readable inventory mirror, about 267 vehicles.
 
 - Official website: https://www.harrisoceansidegm.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/

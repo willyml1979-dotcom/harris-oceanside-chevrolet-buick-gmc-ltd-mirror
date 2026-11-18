@@ -1,7 +1,7 @@
 {
   "dealership": "Harris Oceanside Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-18T04:35:41",
-  "vehicle_count": 267,
+  "generated_at": "2026-11-18T13:18:45",
+  "vehicle_count": 265,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -55,7 +55,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 9999.0,
+      "price": 7799.0,
       "price_currency": "CAD"
     },
     {
@@ -66,7 +66,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 16254.0,
+      "price": 14249.0,
       "price_currency": "CAD"
     },
     {
@@ -77,7 +77,7 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "used",
-      "price": 17936.0,
+      "price": 16997.0,
       "price_currency": "CAD"
     },
     {
@@ -88,7 +88,7 @@
       "make": "Chevrolet",
       "model": "Cruze",
       "condition": "used",
-      "price": 10878.0,
+      "price": 9299.0,
       "price_currency": "CAD"
     },
     {
@@ -132,18 +132,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 14890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Kia Forte Hatchback SX No Accidents Power Sunroof",
-      "vin": "3KPFN5A32HE126963",
-      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/f7c6acd57c19.html",
-      "year": 2017,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 16990.0,
+      "price": 14190.0,
       "price_currency": "CAD"
     },
     {
@@ -174,7 +163,7 @@
       "make": "Chevrolet",
       "model": "Volt LT Remote Start Heated Seats/Steering Wheel",
       "condition": "used",
-      "price": 13385.0,
+      "price": 15998.0,
       "price_currency": "CAD"
     },
     {
@@ -195,17 +184,6 @@
       "model": "Odyssey",
       "condition": "used",
       "price": 25890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Kia Forte Sedan LX Hands Free Phone",
-      "vin": "3KPFK4A70JE201185",
-      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/169af3b9cfcb.html",
-      "year": 2018,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 9803.0,
       "price_currency": "CAD"
     },
     {
@@ -601,6 +579,15 @@
       "condition": "used",
       "price": 44640.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2023 GMC Sierra 3500HD Denali",
+      "vin": "1GT49WEY5PF217589",
+      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/3799c30689ff.html",
+      "year": 2023,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "used"
     },
     {
       "name": "2023 Jeep Grand Cherokee Altitude One Owner Remote Start",
@@ -2128,17 +2115,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Sierra 1500 Denali Ultimate Super Cruise Power Sunroof",
-      "vin": "1GTUUHEL6TZ168183",
-      "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/bffdf510dfbe.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 113928.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 GMC Sierra 1500 Elevation One Owner No Accidents",
       "vin": "3GTUUCE81TG290531",
       "url": "https://willyml1979-dotcom.github.io/harris-oceanside-chevrolet-buick-gmc-ltd-mirror/used/bd926e4f280e.html",
@@ -2146,7 +2122,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 65661.0,
+      "price": 59998.0,
       "price_currency": "CAD"
     },
     {
@@ -2859,7 +2835,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "new",
-      "price": 52684.0,
+      "price": 50684.0,
       "price_currency": "CAD"
     },
     {
@@ -2881,7 +2857,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "new",
-      "price": 50239.0,
+      "price": 48239.0,
       "price_currency": "CAD"
     },
     {
